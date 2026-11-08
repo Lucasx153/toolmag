@@ -32,3 +32,8 @@ La demo LibreSprite è stata sostituita esclusivamente sul sito: sprite original
 Versione precedente: commit `c6af44f1da27cf37f062ed31f916af7715456383`. Prima della pubblicazione è stato conservato un clone e un bundle Git completo nella cartella locale `pubblicazione/release-2026-11-08/`. Per tornare indietro, creare un commit di ripristino della release nella cronologia Git; non cancellare la cronologia e non cambiare l’indirizzo Pages.
 
 La verifica mobile è una prova in viewport browser, non un test su telefono fisico né una certificazione completa di accessibilità.
+
+
+## Numero 04 — Trading, 9 novembre 2026
+
+Dieci schede nello stesso ordine delle slide; immagini autentiche e schema ufficiale TradingAgents. Fonti in `FONTI-TRADING.json`, licenze in `trading-*-LICENSE.txt`. Stelle delle slide rilevate l’8 novembre. Il sito distingue analisi, previsione, backtest, simulazione e live. Nessuna demo eseguita da TOOLMAG per questo numero.

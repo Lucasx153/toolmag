@@ -1,0 +1,186 @@
+[
+  {
+    "id": "tradingagents",
+    "repository": "https://github.com/TauricResearch/TradingAgents",
+    "stars": 121370,
+    "starsDate": "2026-11-08",
+    "author": "TauricResearch e contributori",
+    "source": "https://github.com/TauricResearch/TradingAgents/blob/main/assets/researcher.png",
+    "files": [
+      "TradingAgents-researcher.png"
+    ],
+    "credit": "SCHEMA UFFICIALE TAURIC RESEARCH · ESEMPIO ILLUSTRATIVO",
+    "modifications": "Dettagli ritagliati, fotogrammi o output PNG estratti dal materiale originale; ridimensionamento proporzionale. Nessun risultato ricreato con AI.",
+    "licenseFile": "research/TradingAgents-LICENSE.txt",
+    "additionalLicense": null,
+    "sha256": {
+      "TradingAgents-researcher.png": "f3fa680c89d195b7d899c05f30bebb87385c9015d7adc3c4b860d422bb380950"
+    }
+  },
+  {
+    "id": "kronos",
+    "repository": "https://github.com/shiyu-coder/Kronos",
+    "stars": 47343,
+    "starsDate": "2026-11-08",
+    "author": "shiyu-coder e contributori",
+    "source": "https://github.com/shiyu-coder/Kronos/blob/master/figures/prediction_example.png",
+    "files": [
+      "kronos-price-detail.png"
+    ],
+    "credit": "GRAFICO ORIGINALE KRONOS · DETTAGLIO · NON È UNA GARANZIA",
+    "modifications": "Dettagli ritagliati, fotogrammi o output PNG estratti dal materiale originale; ridimensionamento proporzionale. Nessun risultato ricreato con AI.",
+    "licenseFile": "research/Kronos-LICENSE.txt",
+    "additionalLicense": null,
+    "sha256": {
+      "kronos-price-detail.png": "4f693ca1531cca32c1fd2c0ec1e4176d631eede5a3641646e00b17d4bd3055c2"
+    }
+  },
+  {
+    "id": "fincept",
+    "repository": "https://github.com/Fincept-Corporation/FinceptTerminal",
+    "stars": 33594,
+    "starsDate": "2026-11-08",
+    "author": "Fincept-Corporation e contributori",
+    "source": "https://github.com/Fincept-Corporation/FinceptTerminal/blob/main/images/EquityResearch.png",
+    "files": [
+      "fincept-research-detail.png"
+    ],
+    "credit": "SCHERMATA DAL REPOSITORY FINCEPT · DETTAGLIO",
+    "modifications": "Dettagli ritagliati, fotogrammi o output PNG estratti dal materiale originale; ridimensionamento proporzionale. Nessun risultato ricreato con AI.",
+    "licenseFile": "research/FinceptTerminal-LICENSE.txt",
+    "additionalLicense": null,
+    "sha256": {
+      "fincept-research-detail.png": "a213ea5cacb82d35c8b5948d95652f93027e064fb0840e36d9609128fd7b4dc1"
+    }
+  },
+  {
+    "id": "openbb",
+    "repository": "https://github.com/openbq-org/OpenBB",
+    "stars": 75248,
+    "starsDate": "2026-11-08",
+    "author": "openbq-org e contributori",
+    "source": "https://github.com/openbq-org/OpenBB/blob/develop/examples/riskReturnAnalysis.ipynb",
+    "files": [
+      "OpenBB-riskReturnAnalysis-15-2.png",
+      "OpenBB-riskReturnAnalysis-17-0.png"
+    ],
+    "credit": "NOTEBOOK ORIGINALE OPENBB + PYTHON · ESEMPIO STORICO",
+    "modifications": "Dettagli ritagliati, fotogrammi o output PNG estratti dal materiale originale; ridimensionamento proporzionale. Nessun risultato ricreato con AI.",
+    "licenseFile": "research/OpenBB-LICENSE.txt",
+    "additionalLicense": null,
+    "sha256": {
+      "OpenBB-riskReturnAnalysis-15-2.png": "80d74de03fc6cc6b752fcf248f88bfdefce2f1948d5e858f7ca2b4987ddc92d8",
+      "OpenBB-riskReturnAnalysis-17-0.png": "1bcfa46b79bb1f3c2596b9f070f15c60bd2c26c8c6eceb1f49301ea1009a6112"
+    }
+  },
+  {
+    "id": "qlib",
+    "repository": "https://github.com/microsoft/qlib",
+    "stars": 50137,
+    "starsDate": "2026-11-08",
+    "author": "microsoft e contributori",
+    "source": "https://github.com/microsoft/qlib/blob/main/docs/_static/img/analysis/report.png",
+    "files": [
+      "qlib-report-detail.png"
+    ],
+    "credit": "REPORT ORIGINALE QLIB · DETTAGLIO DI UN TEST STORICO",
+    "modifications": "Dettagli ritagliati, fotogrammi o output PNG estratti dal materiale originale; ridimensionamento proporzionale. Nessun risultato ricreato con AI.",
+    "licenseFile": "research/qlib-LICENSE.txt",
+    "additionalLicense": null,
+    "sha256": {
+      "qlib-report-detail.png": "157d35b42e6e5cb2936f480beec1fbc317b826104ed8a4b8a245dde7dfe4573a"
+    }
+  },
+  {
+    "id": "vibe",
+    "repository": "https://github.com/HKUDS/Vibe-Trading",
+    "stars": 37896,
+    "starsDate": "2026-11-08",
+    "author": "HKUDS e contributori",
+    "source": "https://github.com/HKUDS/Vibe-Trading/blob/main/assets/Frontend.mp4",
+    "files": [
+      "vibe-chart-detail.png"
+    ],
+    "credit": "FOTOGRAMMA DELLA DEMO UFFICIALE · TEST SU BTC/USDT",
+    "modifications": "Dettagli ritagliati, fotogrammi o output PNG estratti dal materiale originale; ridimensionamento proporzionale. Nessun risultato ricreato con AI.",
+    "licenseFile": "research/Vibe-Trading-LICENSE.txt",
+    "additionalLicense": null,
+    "sha256": {
+      "vibe-chart-detail.png": "f1198263dfdbf7c3173e75994630bb218e6adbcd3c8b5318aec68fadb463fd85"
+    }
+  },
+  {
+    "id": "vectorbt",
+    "repository": "https://github.com/polakowo/vectorbt",
+    "stars": 9767,
+    "starsDate": "2026-11-08",
+    "author": "polakowo e contributori",
+    "source": "https://github.com/polakowo/vectorbt/blob/master/docs/docs/assets/images/usage_dmac_heatmap.gif",
+    "files": [
+      "vectorbt-usage_dmac_heatmap-frame-0.png",
+      "vectorbt-usage_dmac_heatmap-frame-10.png"
+    ],
+    "credit": "DEMO ORIGINALE VECTORBT · ESEMPI STORICI, NON PREVISIONI",
+    "modifications": "Dettagli ritagliati, fotogrammi o output PNG estratti dal materiale originale; ridimensionamento proporzionale. Nessun risultato ricreato con AI.",
+    "licenseFile": "research/vectorbt-LICENSE.txt",
+    "additionalLicense": "research/vectorbt-docs-LICENSE.txt",
+    "sha256": {
+      "vectorbt-usage_dmac_heatmap-frame-0.png": "170c9de557187d56a97a71099f452a40a61fdc1887c8e363763972e499b14f97",
+      "vectorbt-usage_dmac_heatmap-frame-10.png": "60410e3d70b4c9dfd297b49f7be92166a6c1665ea6bd17df510fae4204108c6b"
+    }
+  },
+  {
+    "id": "freqtrade",
+    "repository": "https://github.com/freqtrade/freqtrade",
+    "stars": 56654,
+    "starsDate": "2026-11-08",
+    "author": "freqtrade e contributori",
+    "source": "https://github.com/freqtrade/freqtrade/blob/develop/docs/assets/plot-profit.png",
+    "files": [
+      "freqtrade-report-detail.png"
+    ],
+    "credit": "GRAFICO DAL MANUALE FREQTRADE · ESEMPIO STORICO",
+    "modifications": "Dettagli ritagliati, fotogrammi o output PNG estratti dal materiale originale; ridimensionamento proporzionale. Nessun risultato ricreato con AI.",
+    "licenseFile": "research/freqtrade-LICENSE.txt",
+    "additionalLicense": null,
+    "sha256": {
+      "freqtrade-report-detail.png": "42700ab637d5faeb806e0228422002aec6bc5f0e5b835ef1102dd33d02538a07"
+    }
+  },
+  {
+    "id": "daily",
+    "repository": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "stars": 68236,
+    "starsDate": "2026-11-08",
+    "author": "ZhuLinsen e contributori",
+    "source": "https://github.com/ZhuLinsen/daily_stock_analysis/blob/main/docs/assets/readme_workspace_tour_20260510.gif",
+    "files": [
+      "daily-report-detail.png"
+    ],
+    "credit": "DEMO UFFICIALE DAILY STOCK ANALYSIS · INTERFACCIA IN CINESE",
+    "modifications": "Dettagli ritagliati, fotogrammi o output PNG estratti dal materiale originale; ridimensionamento proporzionale. Nessun risultato ricreato con AI.",
+    "licenseFile": "research/daily_stock_analysis-LICENSE.txt",
+    "additionalLicense": null,
+    "sha256": {
+      "daily-report-detail.png": "eedc08ae587075c830cc794af0312ef5d991deb6841f899dd0f3074671a808fc"
+    }
+  },
+  {
+    "id": "nautilus",
+    "repository": "https://github.com/nautechsystems/nautilus_trader",
+    "stars": 31376,
+    "starsDate": "2026-11-08",
+    "author": "nautechsystems e contributori",
+    "source": "https://github.com/nautechsystems/nautilus_trader/blob/develop/docs/tutorials/assets/backtest_fx_bars/panel_b_zoom.png",
+    "files": [
+      "nautilus_trader-panel_b_zoom.png"
+    ],
+    "credit": "TUTORIAL ORIGINALE NAUTILUSTRADER · SIMULAZIONE USD/JPY",
+    "modifications": "Dettagli ritagliati, fotogrammi o output PNG estratti dal materiale originale; ridimensionamento proporzionale. Nessun risultato ricreato con AI.",
+    "licenseFile": "research/nautilus_trader-LICENSE.txt",
+    "additionalLicense": null,
+    "sha256": {
+      "nautilus_trader-panel_b_zoom.png": "9889ca14d59af4d49df53ec3f28cc77966b3204bd4c61b0bb61325fe5b04c282"
+    }
+  }
+]

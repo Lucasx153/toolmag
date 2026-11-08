@@ -1,4 +1,9 @@
 {
+  "trading": {
+    "label": "TRADING",
+    "titleHtml": "STUDIA I MERCATI.<br><em>METTI ALLA PROVA LE IDEE.</em>",
+    "intro": "Dieci progetti per analisi, previsioni e test. Una previsione stima un esito; un backtest usa dati passati; una simulazione non invia ordini reali. Requisiti e limiti nelle schede."
+  },
   "creativi": {
     "label": "CREATIVI",
     "titleHtml": "DIECI STRUMENTI.<br><em>LE TUE PROSSIME IDEE.</em>",
