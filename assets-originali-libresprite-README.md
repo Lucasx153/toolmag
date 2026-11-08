@@ -1,0 +1,1 @@
+Sprite originale TOOLMAG. Quattro pose disegnate per questa dimostrazione, importate da input.gif in LibreSprite 1.3 ed esportate realmente in .ase e sprite sheet. Non generato con AI. Il programma non inventa le pose. Sorgenti conservati in questa cartella. Artwork TOOLMAG utilizzabile sul sito TOOLMAG.

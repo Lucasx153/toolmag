@@ -1,0 +1,12 @@
+{
+  "creativi": {
+    "label": "CREATIVI",
+    "titleHtml": "DIECI STRUMENTI.<br><em>LE TUE PROSSIME IDEE.</em>",
+    "intro": "Disegno, fotografia, design, 3D e audio. Gli strumenti del numero, con esempi, due idee d’uso e link diretti."
+  },
+  "ai": {
+    "label": "AI",
+    "titleHtml": "AI, MA PER FARCI COSA?<br><em>PARTI DA QUI.</em>",
+    "intro": "Modelli locali, documenti, immagini, audio e codice. Dieci progetti, con idee concrete e i requisiti per provarli."
+  }
+}

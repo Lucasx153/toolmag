@@ -34,7 +34,21 @@
           "krita-color-2.png": "234a01ded3ca8061d2923ee1e89f25f33ca9411daacede5260e7039db184ffe6",
           "krita-color-3.png": "949682b67067d56f13e8b0aa2ccd9a7a5029407c8fa63e37629b241da8b72b06"
         }
-      }
+      },
+      "issue": "creativi",
+      "number": "03",
+      "position": 1,
+      "group": "design",
+      "hook": "SCEGLI I COLORI.",
+      "hookAccent": "RIEMPI IL TUO DISEGNO.",
+      "reaction": "HA CAPITO I COLORI?!",
+      "person": "assets-persone-21-donna-argento.webp",
+      "visual": "assets-originali-demo-krita.svg",
+      "visualKind": "authentic",
+      "credit": "DAL MANUALE KRITA · COLORIZE MASK",
+      "alt": "Due dettagli originali del manuale: indicazioni di colore e risultato di Colorize Mask.",
+      "visualNote": "Il gancio ora riguarda Colorize Mask, la funzione effettivamente mostrata. Nessuna prova eseguita da noi in Krita.",
+      "page": "assets-pagine-creativi-krita.webp"
     },
     {
       "id": "darktable",
@@ -67,7 +81,21 @@
         "sha256": {
           "darktable.png": "532cec3eed7517c89d1cc5882f8e2b29043a0a289a49bf83959d514188e15698"
         }
-      }
+      },
+      "issue": "creativi",
+      "number": "03",
+      "position": 2,
+      "group": "immagini",
+      "hook": "UN LOOK COERENTE.",
+      "hookAccent": "SU TUTTO LO SHOOTING.",
+      "reaction": "QUANTE NE HO SCATTATE?!",
+      "person": "assets-persone-22-uomo-turbante.webp",
+      "visual": "assets-originali-demo-darktable.svg",
+      "visualKind": "authentic",
+      "credit": "T. SARIS / COMMONS · CC BY-SA 4.0 · DETTAGLIO",
+      "alt": "Dettaglio autentico della tavola luminosa di darktable 4.4.2; non un prima/dopo.",
+      "visualNote": "Dettaglio della tavola luminosa. Non è un prima/dopo e non dimostra che lo stesso stile sia stato applicato a tutte le immagini.",
+      "page": "assets-pagine-creativi-darktable.webp"
     },
     {
       "id": "penpot",
@@ -100,7 +128,21 @@
         "sha256": {
           "penpot.webp": "a8bfd2d6b03777be72b5cd9a10d8d7829f3c5b64556f4d168b1a6f568869e3e3"
         }
-      }
+      },
+      "issue": "creativi",
+      "number": "03",
+      "position": 3,
+      "group": "design",
+      "hook": "FAI PROVARE IL SITO.",
+      "hookAccent": "PRIMA DI SVILUPPARLO.",
+      "reaction": "QUINDI POSSO CLICCARE?!",
+      "person": "assets-persone-23-donna-lentiggini.webp",
+      "visual": "assets-originali-demo-penpot.svg",
+      "visualKind": "authentic",
+      "credit": "DAL MANUALE PENPOT · DETTAGLIO",
+      "alt": "Schermata originale del manuale Penpot: pulsante Play collegato alla schermata del brano.",
+      "visualNote": "Collegamento tra schermate di un prototipo musicale. Non è un sito funzionante né una prova eseguita da noi.",
+      "page": "assets-pagine-creativi-penpot.webp"
     },
     {
       "id": "blender",
@@ -139,7 +181,21 @@
           "toolmag-packaging.blend": "ab882e272e4501ab577f65d5328ced53e306b13b8f34c254e42981583740be1e",
           "blender-evidence.json": "dc04c3c0615f05da5aa6f07064ff1639889670f8f3d57902506a455dddfccffd"
         }
-      }
+      },
+      "issue": "creativi",
+      "number": "03",
+      "position": 4,
+      "group": "immagini",
+      "hook": "IL PRODOTTO È IN 3D.",
+      "hookAccent": "LO SCATTO LO DECIDI TU.",
+      "reaction": "LO STUDIO È NEL PC?!",
+      "person": "assets-persone-24-uomo-treccine.webp",
+      "visual": "assets-originali-demo-blender.svg",
+      "visualKind": "authentic",
+      "credit": "PROVA REALIZZATA IN BLENDER 5.2 · TOOLMAG",
+      "alt": "Stesso packaging modellato e renderizzato realmente in Blender; file blend incluso.",
+      "visualNote": "Stesso modello, stessa camera; passaggio da vista Workbench a render EEVEE. Script tools/demo_blender.py e file .blend conservati.",
+      "page": "assets-pagine-creativi-blender.webp"
     },
     {
       "id": "material",
@@ -174,7 +230,21 @@
           "material-graph.png": "e3eb77ce0a3943191da2575ed77b804693d22f749a5c633c8034c3a4645c9005",
           "material-preview.png": "fb5530b60a3f61ad5cbb129e68146ddc978d9ec001f1c52f8f84d0a4a32cd7ea"
         }
-      }
+      },
+      "issue": "creativi",
+      "number": "03",
+      "position": 5,
+      "group": "immagini",
+      "hook": "LISCIO O ROVINATO?",
+      "hookAccent": "LA SUPERFICIE LA CREI TU.",
+      "reaction": "È INVECCHIATO DI COLPO?!",
+      "person": "assets-persone-25-signora-viola.webp",
+      "visual": "assets-originali-demo-material.svg",
+      "visualKind": "authentic",
+      "credit": "DAL MANUALE MATERIAL MAKER · DUE ESEMPI DISTINTI",
+      "alt": "Due immagini originali del manuale: grafo e anteprima 3D, non uno stesso flusso prima/dopo.",
+      "visualNote": "Grafo e anteprima sono esempi distinti. Non sono presentati come input/output dello stesso materiale.",
+      "page": "assets-pagine-creativi-material.webp"
     },
     {
       "id": "libresprite",
@@ -191,27 +261,26 @@
       "primaryRepository": "https://github.com/LibreSprite/LibreSprite",
       "repositoryType": "Repository principale",
       "imageSource": {
-        "author": "Artisti della community LibreSprite, nomi conservati nei livelli di splash.ase e in libresprite-art-layers.json",
-        "license": "Il repository dichiara GPL-2.0 per il programma; non è stata individuata una licenza separata esplicita dell’artwork",
-        "licenseUrl": "https://github.com/LibreSprite/LibreSprite/blob/master/LICENSE.txt",
-        "files": [
-          "libresprite-splash.ase",
-          "libresprite-community.png",
-          "libresprite-art-layers.json"
-        ],
-        "kind": "Artwork originale distribuito nel repository",
-        "note": "Immagine statica estratta dal file originale senza ridisegno. Non viene attribuita a una prova di animazione. Verificare la licenza specifica dell’artwork prima della pubblicazione social.",
-        "id": "libresprite",
-        "name": "LIBRESPRITE",
-        "source": "https://github.com/LibreSprite/LibreSprite/blob/master/data/splash.ase",
-        "description": "Artwork collaborativo statico del repository LibreSprite, estratto dal file originale splash.ase. Non una prova di animazione.",
-        "changes": "Impaginazione e ridimensionamento proporzionale; eventuali dettagli ritagliati. Nessun contenuto visivo ricreato con AI.",
-        "sha256": {
-          "libresprite-splash.ase": "25d25b3f02d1444638ae0e08f0d85ee5913de5db02c43ab515f411356cc523b9",
-          "libresprite-community.png": "a7c3ad9d6093f2155ee7e3cdcf88d7aeee9e8145ae828f95429559aaee3dbed9",
-          "libresprite-art-layers.json": "affe26270a1f0a82c88597b80a5fe9fbe00715996a9d7c5d6e799b51236d6a33"
-        }
-      }
+        "kind": "Dimostrazione originale TOOLMAG",
+        "author": "TOOLMAG",
+        "license": "Artwork originale TOOLMAG, utilizzato sul proprio sito",
+        "source": "https://lucasx153.github.io/toolmag/assets-originali-libresprite-README.md",
+        "note": "Quattro pose originali importate in LibreSprite 1.3 e realmente esportate in un file .ase e uno sprite sheet. Le pose sono disegnate, non create automaticamente. La pagina della rivista qui mostrata è aggiornata solo nella demo; il carosello originale resta archiviato."
+      },
+      "issue": "creativi",
+      "number": "03",
+      "position": 6,
+      "group": "design",
+      "hook": "I TUOI PERSONAGGI.",
+      "hookAccent": "UN PIXEL ALLA VOLTA.",
+      "reaction": "NON SENTO PIÙ LE DITA!!!",
+      "person": "assets-persone-26-uomo-ciuffo.webp",
+      "visual": "assets-originali-libresprite-demo.webp",
+      "visualKind": "authentic",
+      "credit": "SPRITE TOOLMAG · ESPORTAZIONE REALE IN LIBRESPRITE 1.3",
+      "alt": "Quattro pose del personaggio rivista TOOLMAG, esportate in uno sprite sheet con LibreSprite",
+      "visualNote": "Quattro pose originali importate in LibreSprite 1.3 e realmente esportate in un file .ase e uno sprite sheet. Le pose sono disegnate, non create automaticamente. La pagina della rivista qui mostrata è aggiornata solo nella demo; il carosello originale resta archiviato.",
+      "page": "assets-originali-libresprite-pagina-web.webp"
     },
     {
       "id": "fontforge",
@@ -246,7 +315,21 @@
           "fontforge-C.png": "cfe27a153269d8b803b502b3947d81c2d4c165664743d972299d6f877f708b2c",
           "fontforge-metrics.png": "07daddbd2e1545766b31ecc7f43e8082a557b881755420eff61856c742fb21fd"
         }
-      }
+      },
+      "issue": "creativi",
+      "number": "03",
+      "position": 7,
+      "group": "design",
+      "hook": "LE TUE LETTERE.",
+      "hookAccent": "UN FONT DA INSTALLARE.",
+      "reaction": "ORA SCRIVO COME MI PARE!",
+      "person": "assets-persone-27-donna-ricci.webp",
+      "visual": "assets-originali-demo-fontforge.svg",
+      "visualKind": "authentic",
+      "credit": "DAL TUTORIAL FONTFORGE · G. WILLIAMS E AUTORI",
+      "alt": "Immagini originali del tutorial FontForge: disegno del glifo C e finestra metrica Ambrosia.",
+      "visualNote": "Disegno del glifo e vista metrica Ambrosia. Non documentano un’installazione di font effettuata da noi.",
+      "page": "assets-pagine-creativi-fontforge.webp"
     },
     {
       "id": "scribus",
@@ -261,7 +344,7 @@
       "description": "Impagina le tue opere in una fanzine e raccogli i file collegati per la consegna.",
       "requirement": "Concorda PDF, colori e abbondanze con la tipografia. Trasferisci i font solo se la licenza lo permette. Il codice principale è ospitato su SVN: svn://scribus.net/trunk/Scribus.",
       "primaryRepository": null,
-      "repositoryType": "Mirror comunitario del repository SVN ufficiale",
+      "repositoryType": "Mirror GitHub; principale su SVN",
       "imageSource": {
         "author": "Scribus Team e autori della documentazione; dipinto di Rembrandt",
         "license": "Open Publication License 1.0+, con divieto opzionale di edizione in libro cartaceo senza permesso",
@@ -281,7 +364,21 @@
           "scribus-18.png": "5d983bfbeb903f179f652864a295e611d23d8ebced02095b9ea0247cf73383d6",
           "scribus-cover.png": "9a417fd816876db839292dd2719c72046b0743834ad539dc25d3acdf4a17f677"
         }
-      }
+      },
+      "issue": "creativi",
+      "number": "03",
+      "position": 8,
+      "group": "design",
+      "hook": "LE TUE OPERE.",
+      "hookAccent": "DIVENTANO UNA FANZINE.",
+      "reaction": "FERMATE LE ROTATIVE!!!!",
+      "person": "assets-persone-28-uomo-baffi.webp",
+      "visual": "assets-originali-demo-scribus.svg",
+      "visualKind": "authentic",
+      "credit": "DAL QUICK START SCRIBUS · ESEMPIO REMBRANDT",
+      "alt": "Schermata e pagina finale originali del Quick Start Guide di Scribus.",
+      "visualNote": "Estratto e composizione grafica modificata da Toolmag il 2026-11-08. Originale disponibile nel repository Scribus; non implica approvazione degli autori.",
+      "page": "assets-pagine-creativi-scribus.webp"
     },
     {
       "id": "audacity",
@@ -314,7 +411,21 @@
         "sha256": {
           "audacity.png": "7707a358690a40c6443796f0bb3e6558814226b9b67ffd2027fd8ecbeb543415"
         }
-      }
+      },
+      "issue": "creativi",
+      "number": "03",
+      "position": 9,
+      "group": "audio",
+      "hook": "UN VIDEO TI ASSORDA.",
+      "hookAccent": "L’ALTRO NON SI SENTE?",
+      "reaction": "LE ORECCHIE RINGRAZIANO!",
+      "person": "assets-persone-29-donna-punk.webp",
+      "visual": "assets-originali-demo-audacity.svg",
+      "visualKind": "authentic",
+      "credit": "DIALOGO REALE DAL MANUALE AUDACITY · CC BY 3.0",
+      "alt": "Dialogo originale Loudness Normalization dal manuale Audacity. Mostra il controllo, non un risultato misurato.",
+      "visualNote": "È il controllo reale, non una misura prima/dopo. -23 LUFS è il valore mostrato dalla fonte, non una raccomandazione universale per i social.",
+      "page": "assets-pagine-creativi-audacity.webp"
     },
     {
       "id": "meshroom",
@@ -349,7 +460,21 @@
           "mesh-image6-3.jpg": "b1c9974d4cb253469d567017b238e281305f745b39099d423f876dfdc88088aa",
           "meshroom.jpg": "92f8cf5e5e3062e7fba92a75c1796c6e556af8134bd472e4c151baf50bc0306a"
         }
-      }
+      },
+      "issue": "creativi",
+      "number": "03",
+      "position": 10,
+      "group": "immagini",
+      "hook": "FOTOGRAFI UN OGGETTO.",
+      "hookAccent": "LO RICOSTRUISCI IN 3D.",
+      "reaction": "ANCHE LA STATUA È NEL PC?!",
+      "person": "assets-persone-30-uomo-occhiali.webp",
+      "visual": "assets-originali-demo-meshroom.svg",
+      "visualKind": "authentic",
+      "credit": "DAL TUTORIAL MESHROOM / ALICEVISION · DETTAGLI",
+      "alt": "Dettagli delle foto e del modello texturizzato della stessa statua dal tutorial Meshroom.",
+      "visualNote": "Stessa statua: fotografie e ricostruzione texturizzata. Non è una scansione eseguita da noi.",
+      "page": "assets-pagine-creativi-meshroom.webp"
     }
   ]
 }
