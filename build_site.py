@@ -5,7 +5,7 @@ ROOT=Path(__file__).resolve().parent
 all_projects=json.loads((ROOT/'contenuti.json').read_text(encoding='utf8'))['projects']
 issues=json.loads((ROOT/'numeri.json').read_text(encoding='utf8'))
 def header(prefix=''):
- return f'''<a class="skip" href="#main">Vai al contenuto</a><header class="site-head shell"><a href="{prefix}index.html" class="brand" aria-label="Toolmag, homepage">TOOLMAG<span>*</span></a><p>STRUMENTI UTILI.<br>REAZIONI ESAGERATE.</p><nav aria-label="Navigazione principale"><a href="{prefix}index.html#archivio">I numeri</a><a href="{prefix}strumenti.html#strumenti">Cerca un tool ↗</a></nav></header>'''
+ return f'''<a class="skip" href="#main">Vai al contenuto</a><header class="site-head shell"><a href="{prefix}index.html" class="brand" aria-label="Toolmag, homepage">TOOLMAG<span>*</span></a><p>STRUMENTI UTILI.<br>IDEE DA PROVARE.</p><nav aria-label="Navigazione principale"><a href="{prefix}index.html#archivio">I numeri</a><a href="{prefix}strumenti.html#strumenti">Cerca un tool ↗</a></nav></header>'''
 def footer(prefix=''):
  return f'''<footer class="site-footer shell"><a class="brand" href="{prefix}index.html">TOOLMAG<span>*</span></a><p><b>DUE DRITTE</b> / LA NOSTRA RIVISTA</p><a href="https://www.instagram.com/toolmag.ai/" target="_blank" rel="noopener noreferrer">@toolmag.ai ↗</a><small>Licenze diverse per ogni progetto. Hardware e servizi possono avere costi. Requisiti nelle schede.</small></footer>'''
 def document(title,body,prefix=''):
