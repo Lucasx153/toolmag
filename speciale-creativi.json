@@ -14,7 +14,27 @@
       "description": "Disegna motivi ripetibili per carta e tessuti e colora la lineart con indicazioni guidate.",
       "requirement": "Wrap Around permette di lavorare sulle giunture. Colorize Mask richiede indicazioni di colore e verifica del risultato.",
       "primaryRepository": "https://invent.kde.org/graphics/krita",
-      "repositoryType": "Mirror ufficiale KDE"
+      "repositoryType": "Mirror ufficiale KDE",
+      "imageSource": {
+        "author": "Krita Manual contributors (Wolthera van Hövell tot Westerflier, Vancemoss, Raghavendra Kamath)",
+        "license": "GFDL 1.3+ indicata nel sorgente della pagina; il sito descrive anche CC BY-SA per la documentazione",
+        "licenseUrl": "https://docs.krita.org/en/_sources/tutorials/common_workflows.rst.txt",
+        "files": [
+          "krita-color-2.png",
+          "krita-color-3.png"
+        ],
+        "kind": "Dettagli delle immagini originali del manuale",
+        "note": "Il gancio ora riguarda Colorize Mask, la funzione effettivamente mostrata. Nessuna prova eseguita da noi in Krita.",
+        "id": "krita",
+        "name": "KRITA",
+        "source": "https://docs.krita.org/en/tutorials/common_workflows.html",
+        "description": "Due dettagli originali del manuale: indicazioni di colore e risultato di Colorize Mask.",
+        "changes": "Impaginazione e ridimensionamento proporzionale; eventuali dettagli ritagliati. Nessun contenuto visivo ricreato con AI.",
+        "sha256": {
+          "krita-color-2.png": "234a01ded3ca8061d2923ee1e89f25f33ca9411daacede5260e7039db184ffe6",
+          "krita-color-3.png": "949682b67067d56f13e8b0aa2ccd9a7a5029407c8fa63e37629b241da8b72b06"
+        }
+      }
     },
     {
       "id": "darktable",
@@ -29,7 +49,25 @@
       "description": "Riusa le regolazioni su una serie fotografica e confronta look diversi con copie virtuali.",
       "requirement": "Uno stile riapplica regolazioni: esposizione, bilanciamento e luce possono richiedere adattamenti su ogni foto.",
       "primaryRepository": "https://github.com/darktable-org/darktable",
-      "repositoryType": "Repository principale"
+      "repositoryType": "Repository principale",
+      "imageSource": {
+        "author": "สาริศ ธนาโสภณ / T.saris, Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "files": [
+          "darktable.png"
+        ],
+        "kind": "Schermata autentica darktable 4.4.2 (2023)",
+        "note": "Dettaglio della tavola luminosa. Non è un prima/dopo e non dimostra che lo stesso stile sia stato applicato a tutte le immagini.",
+        "id": "darktable",
+        "name": "DARKTABLE",
+        "source": "https://commons.wikimedia.org/wiki/File:Darktable_4.4.2_with_a_film_roll_opened_in_lighttable_view.png",
+        "description": "Dettaglio autentico della tavola luminosa di darktable 4.4.2; non un prima/dopo.",
+        "changes": "Impaginazione e ridimensionamento proporzionale; eventuali dettagli ritagliati. Nessun contenuto visivo ricreato con AI.",
+        "sha256": {
+          "darktable.png": "532cec3eed7517c89d1cc5882f8e2b29043a0a289a49bf83959d514188e15698"
+        }
+      }
     },
     {
       "id": "penpot",
@@ -44,7 +82,25 @@
       "description": "Disegna schermate e collega le interazioni per far provare un percorso prima dello sviluppo.",
       "requirement": "Il risultato è un prototipo, non un sito operativo. Configura le interazioni e i componenti. Il servizio cloud ha anche piani a pagamento.",
       "primaryRepository": "https://github.com/penpot/penpot",
-      "repositoryType": "Repository principale"
+      "repositoryType": "Repository principale",
+      "imageSource": {
+        "author": "Penpot documentation contributors",
+        "license": "Repository penpot/penpot-docs: MPL 2.0; nessun avviso separato rilevato per questa immagine",
+        "licenseUrl": "https://github.com/penpot/penpot-docs/blob/main/LICENSE",
+        "files": [
+          "penpot.webp"
+        ],
+        "kind": "Dettaglio della schermata nel manuale ufficiale",
+        "note": "Collegamento tra schermate di un prototipo musicale. Non è un sito funzionante né una prova eseguita da noi.",
+        "id": "penpot",
+        "name": "PENPOT",
+        "source": "https://help.penpot.app/user-guide/prototyping-testing/prototyping/",
+        "description": "Schermata originale del manuale Penpot: pulsante Play collegato alla schermata del brano.",
+        "changes": "Impaginazione e ridimensionamento proporzionale; eventuali dettagli ritagliati. Nessun contenuto visivo ricreato con AI.",
+        "sha256": {
+          "penpot.webp": "a8bfd2d6b03777be72b5cd9a10d8d7829f3c5b64556f4d168b1a6f568869e3e3"
+        }
+      }
     },
     {
       "id": "blender",
@@ -59,7 +115,31 @@
       "description": "Prepara un set virtuale per confrontare etichette e inquadrare prodotti prima di produrli.",
       "requirement": "Servono modello, materiali, luci e camera. Puoi riutilizzare il set, ma i nuovi prodotti possono richiedere aggiustamenti.",
       "primaryRepository": "https://projects.blender.org/blender/blender",
-      "repositoryType": "Mirror ufficiale Blender"
+      "repositoryType": "Mirror ufficiale Blender",
+      "imageSource": {
+        "author": "Toolmag",
+        "license": "Asset originale del numero Toolmag",
+        "licenseUrl": null,
+        "files": [
+          "blender-model.png",
+          "blender-render.png",
+          "toolmag-packaging.blend",
+          "blender-evidence.json"
+        ],
+        "kind": "Modello e render realmente prodotti in Blender 5.2.1",
+        "note": "Stesso modello, stessa camera; passaggio da vista Workbench a render EEVEE. Script tools/demo_blender.py e file .blend conservati.",
+        "id": "blender",
+        "name": "BLENDER",
+        "source": "https://www.blender.org/",
+        "description": "Stesso packaging modellato e renderizzato realmente in Blender; file blend incluso.",
+        "changes": "Impaginazione e ridimensionamento proporzionale; eventuali dettagli ritagliati. Nessun contenuto visivo ricreato con AI.",
+        "sha256": {
+          "blender-model.png": "c4536ce5de0e5c8a1658f22513d50d8e2305e3d443aa980794e92d7ef2ac0225",
+          "blender-render.png": "29a62cbeb7835fefd3eaf21c2c1a3082a246670be2549ab4e05fa91d9dfdf093",
+          "toolmag-packaging.blend": "ab882e272e4501ab577f65d5328ced53e306b13b8f34c254e42981583740be1e",
+          "blender-evidence.json": "dc04c3c0615f05da5aa6f07064ff1639889670f8f3d57902506a455dddfccffd"
+        }
+      }
     },
     {
       "id": "material",
@@ -74,7 +154,27 @@
       "description": "Costruisci materiali a nodi, prova finiture e genera varianti per superfici meno ripetitive.",
       "requirement": "Costruisci o adatta il grafo; il seme varia i nodi che lo supportano. Esporta le mappe e collegale nel programma 3D.",
       "primaryRepository": "https://github.com/RodZill4/material-maker",
-      "repositoryType": "Repository principale"
+      "repositoryType": "Repository principale",
+      "imageSource": {
+        "author": "Rod Zilla e contributori di Material Maker",
+        "license": "MIT (repository)",
+        "licenseUrl": "https://github.com/RodZill4/material-maker/blob/master/LICENSE",
+        "files": [
+          "material-graph.png",
+          "material-preview.png"
+        ],
+        "kind": "Due immagini autentiche della documentazione",
+        "note": "Grafo e anteprima sono esempi distinti. Non sono presentati come input/output dello stesso materiale.",
+        "id": "material",
+        "name": "MATERIAL MAKER",
+        "source": "https://rodzill4.github.io/material-maker/doc/user_interface_3d_preview_panel.html",
+        "description": "Due immagini originali del manuale: grafo e anteprima 3D, non uno stesso flusso prima/dopo.",
+        "changes": "Impaginazione e ridimensionamento proporzionale; eventuali dettagli ritagliati. Nessun contenuto visivo ricreato con AI.",
+        "sha256": {
+          "material-graph.png": "e3eb77ce0a3943191da2575ed77b804693d22f749a5c633c8034c3a4645c9005",
+          "material-preview.png": "fb5530b60a3f61ad5cbb129e68146ddc978d9ec001f1c52f8f84d0a4a32cd7ea"
+        }
+      }
     },
     {
       "id": "libresprite",
@@ -89,7 +189,29 @@
       "description": "Disegna pose in pixel art e prova un movimento prima di implementarlo in un gioco.",
       "requirement": "Le pose si disegnano a mano: onion skin mostra i fotogrammi vicini come guida. Nessuna animazione automatica.",
       "primaryRepository": "https://github.com/LibreSprite/LibreSprite",
-      "repositoryType": "Repository principale"
+      "repositoryType": "Repository principale",
+      "imageSource": {
+        "author": "Artisti della community LibreSprite, nomi conservati nei livelli di splash.ase e in libresprite-art-layers.json",
+        "license": "Il repository dichiara GPL-2.0 per il programma; non è stata individuata una licenza separata esplicita dell’artwork",
+        "licenseUrl": "https://github.com/LibreSprite/LibreSprite/blob/master/LICENSE.txt",
+        "files": [
+          "libresprite-splash.ase",
+          "libresprite-community.png",
+          "libresprite-art-layers.json"
+        ],
+        "kind": "Artwork originale distribuito nel repository",
+        "note": "Immagine statica estratta dal file originale senza ridisegno. Non viene attribuita a una prova di animazione. Verificare la licenza specifica dell’artwork prima della pubblicazione social.",
+        "id": "libresprite",
+        "name": "LIBRESPRITE",
+        "source": "https://github.com/LibreSprite/LibreSprite/blob/master/data/splash.ase",
+        "description": "Artwork collaborativo statico del repository LibreSprite, estratto dal file originale splash.ase. Non una prova di animazione.",
+        "changes": "Impaginazione e ridimensionamento proporzionale; eventuali dettagli ritagliati. Nessun contenuto visivo ricreato con AI.",
+        "sha256": {
+          "libresprite-splash.ase": "25d25b3f02d1444638ae0e08f0d85ee5913de5db02c43ab515f411356cc523b9",
+          "libresprite-community.png": "a7c3ad9d6093f2155ee7e3cdcf88d7aeee9e8145ae828f95429559aaee3dbed9",
+          "libresprite-art-layers.json": "affe26270a1f0a82c88597b80a5fe9fbe00715996a9d7c5d6e799b51236d6a33"
+        }
+      }
     },
     {
       "id": "fontforge",
@@ -104,7 +226,27 @@
       "description": "Trasforma i tuoi glifi in un font installabile e cura gli spazi tra le lettere.",
       "requirement": "Disegna o importa i glifi, assegna i caratteri, regola la spaziatura ed esporta. Per modificare font altrui serve una licenza adeguata.",
       "primaryRepository": "https://github.com/fontforge/fontforge",
-      "repositoryType": "Repository principale"
+      "repositoryType": "Repository principale",
+      "imageSource": {
+        "author": "George Williams e autori FontForge",
+        "license": "Repository: GPL-3.0+ con molte parti BSD; nessun avviso separato rilevato per le due immagini del tutorial",
+        "licenseUrl": "https://github.com/fontforge/fontforge/blob/master/LICENSE",
+        "files": [
+          "fontforge-C.png",
+          "fontforge-metrics.png"
+        ],
+        "kind": "Immagini originali del tutorial FontForge",
+        "note": "Disegno del glifo e vista metrica Ambrosia. Non documentano un’installazione di font effettuata da noi.",
+        "id": "fontforge",
+        "name": "FONTFORGE",
+        "source": "https://fontforge.org/docs/tutorial/editexample.html",
+        "description": "Immagini originali del tutorial FontForge: disegno del glifo C e finestra metrica Ambrosia.",
+        "changes": "Impaginazione e ridimensionamento proporzionale; eventuali dettagli ritagliati. Nessun contenuto visivo ricreato con AI.",
+        "sha256": {
+          "fontforge-C.png": "cfe27a153269d8b803b502b3947d81c2d4c165664743d972299d6f877f708b2c",
+          "fontforge-metrics.png": "07daddbd2e1545766b31ecc7f43e8082a557b881755420eff61856c742fb21fd"
+        }
+      }
     },
     {
       "id": "scribus",
@@ -119,7 +261,27 @@
       "description": "Impagina le tue opere in una fanzine e raccogli i file collegati per la consegna.",
       "requirement": "Concorda PDF, colori e abbondanze con la tipografia. Trasferisci i font solo se la licenza lo permette. Il codice principale è ospitato su SVN: svn://scribus.net/trunk/Scribus.",
       "primaryRepository": null,
-      "repositoryType": "Mirror comunitario del repository SVN ufficiale"
+      "repositoryType": "Mirror comunitario del repository SVN ufficiale",
+      "imageSource": {
+        "author": "Scribus Team e autori della documentazione; dipinto di Rembrandt",
+        "license": "Open Publication License 1.0+, con divieto opzionale di edizione in libro cartaceo senza permesso",
+        "licenseUrl": "https://github.com/scribusproject/scribus/blob/master/doc/en/doccopyright.html",
+        "files": [
+          "scribus-18.png",
+          "scribus-cover.png"
+        ],
+        "kind": "Schermata di impaginazione e pagina finale del Quick Start Guide",
+        "note": "Estratto e composizione grafica modificata da Toolmag il 2026-11-08. Originale disponibile nel repository Scribus; non implica approvazione degli autori.",
+        "id": "scribus",
+        "name": "SCRIBUS",
+        "source": "https://github.com/scribusproject/scribus/blob/master/doc/en/qsg.html",
+        "description": "Schermata e pagina finale originali del Quick Start Guide di Scribus.",
+        "changes": "Impaginazione e ridimensionamento proporzionale; eventuali dettagli ritagliati. Nessun contenuto visivo ricreato con AI.",
+        "sha256": {
+          "scribus-18.png": "5d983bfbeb903f179f652864a295e611d23d8ebced02095b9ea0247cf73383d6",
+          "scribus-cover.png": "9a417fd816876db839292dd2719c72046b0743834ad539dc25d3acdf4a17f677"
+        }
+      }
     },
     {
       "id": "audacity",
@@ -134,7 +296,25 @@
       "description": "Rendi più uniforme il volume percepito di registrazioni diverse e riusa gli effetti con le macro.",
       "requirement": "Lavora sull’audio. Usa la normalizzazione loudness con un obiettivo comune; normalizzare i picchi non equivale a uniformare il volume percepito. Per alcuni formati serve FFmpeg. Riascolta: non ripara il clipping.",
       "primaryRepository": "https://github.com/audacity/audacity",
-      "repositoryType": "Repository principale"
+      "repositoryType": "Repository principale",
+      "imageSource": {
+        "author": "Audacity Manual contributors",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "files": [
+          "audacity.png"
+        ],
+        "kind": "Dialogo originale Loudness Normalization dal manuale",
+        "note": "È il controllo reale, non una misura prima/dopo. -23 LUFS è il valore mostrato dalla fonte, non una raccomandazione universale per i social.",
+        "id": "audacity",
+        "name": "AUDACITY",
+        "source": "https://manual.audacityteam.org/man/loudness_normalization.html",
+        "description": "Dialogo originale Loudness Normalization dal manuale Audacity. Mostra il controllo, non un risultato misurato.",
+        "changes": "Impaginazione e ridimensionamento proporzionale; eventuali dettagli ritagliati. Nessun contenuto visivo ricreato con AI.",
+        "sha256": {
+          "audacity.png": "7707a358690a40c6443796f0bb3e6558814226b9b67ffd2027fd8ecbeb543415"
+        }
+      }
     },
     {
       "id": "meshroom",
@@ -149,7 +329,27 @@
       "description": "Ricostruisci oggetti da molte fotografie per archiviare opere o riutilizzarle nelle scene 3D.",
       "requirement": "Servono foto sovrapposte da più angolazioni e superfici adatte. Il percorso denso standard usa NVIDIA CUDA; AliceVision è incluso nei pacchetti ufficiali. Il modello può richiedere pulizia. Una scansione non sostituisce un archivio fotografico di conservazione.",
       "primaryRepository": "https://github.com/alicevision/Meshroom",
-      "repositoryType": "Repository principale"
+      "repositoryType": "Repository principale",
+      "imageSource": {
+        "author": "AliceVision / Meshroom Manual contributors",
+        "license": "CC BY-SA 4.0 (manuale)",
+        "licenseUrl": "https://meshroom-manual.readthedocs.io/en/latest/about/licenses/licenses.html",
+        "files": [
+          "mesh-image6-3.jpg",
+          "meshroom.jpg"
+        ],
+        "kind": "Due dettagli originali del tutorial Meshroom for Beginners",
+        "note": "Stessa statua: fotografie e ricostruzione texturizzata. Non è una scansione eseguita da noi.",
+        "id": "meshroom",
+        "name": "MESHROOM",
+        "source": "https://meshroom-manual.readthedocs.io/en/latest/tutorials/sketchfab/sketchfab.html",
+        "description": "Dettagli delle foto e del modello texturizzato della stessa statua dal tutorial Meshroom.",
+        "changes": "Impaginazione e ridimensionamento proporzionale; eventuali dettagli ritagliati. Nessun contenuto visivo ricreato con AI.",
+        "sha256": {
+          "mesh-image6-3.jpg": "b1c9974d4cb253469d567017b238e281305f745b39099d423f876dfdc88088aa",
+          "meshroom.jpg": "92f8cf5e5e3062e7fba92a75c1796c6e556af8134bd472e4c151baf50bc0306a"
+        }
+      }
     }
   ]
 }
